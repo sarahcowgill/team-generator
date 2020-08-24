@@ -10,3 +10,4 @@ Run as a Node CLI to gather information about each employee.
 
 Below is an example of what your application may look like.
 
+<img width="1103" alt="Screen Shot 2020-08-23 at 7 36 40 PM" src="https://user-images.githubusercontent.com/63895638/90998130-34080b00-e578-11ea-84bd-fb7243864d1d.png">
